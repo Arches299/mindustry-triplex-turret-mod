@@ -13,7 +13,7 @@
 	inaccuracy: 3
 
 	targetAir: true
-	targetGround: true
+	targetGround: false
 
 	ammo: {
 		lead: flakLead
