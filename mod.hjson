@@ -1,0 +1,14 @@
+{
+  name: triplexturret
+  displayName: triplex turret
+  author: unnick
+  description:
+  '''[white]A mod that adds the triplex turret, an anti-air turret that is the successor of the scatter turret
+  [red]TODO[]:
+  create custom sprite
+  adjust range, speed, and other stuff to make it balanced
+  fix my bro,ken inglish and possibly make translations[]'''
+  version: "0.1"
+  minGameVersion: "100.3"
+  dependencies: []
+}

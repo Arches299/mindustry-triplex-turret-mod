@@ -1,0 +1,31 @@
+{
+	localizedName: "triplex turret"
+	description: "An advanced anti-air gun, with 3 barrels to reduce turning time and damage multiple enemies at once."
+
+	size: 2
+	health: 200
+
+	range: 200
+	reload: 15
+	rotatespeed: 12
+	shots: 3
+	burstSpacing: 5
+	inaccuracy: 3
+
+	targetAir: true
+	targetGround: true
+
+	ammo: {
+		lead: flakLead
+		metaglass: flakGlass
+		blast-compound: flakExplosive
+		plastanium: flakPlastic
+	}
+
+	requirements: [ "copper/100"
+	                "lead/60"
+						 "graphite/30" ]
+
+	category: turret
+	research: scatter
+}
