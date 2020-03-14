@@ -24,7 +24,7 @@
 
 	requirements: [ "copper/100"
 	                "lead/60"
-						 "graphite/30" ]
+	                "graphite/30" ]
 
 	category: turret
 	research: scatter
